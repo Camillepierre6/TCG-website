@@ -1,8 +1,63 @@
+body {
+    background-image: url("background3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+
 h1 {
 	font-family: fantasy;
-	text-align:center;
+	text-align: center;
+	color: blue;
+	text-shadow: 2px 2px 8px yellow;
+	font-size: 90px;
+	margin-bottom: 0px
 }
 
-p{
+h2 {
+	margin-top: 0px;
+	font-family: fantasy;
 	text-align: center;
+	color: white;
+	font-size: 60px;
+	text-shadow: 2px 2px 8px blue;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1933CF;
+    font-family: fantasy;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: gold;
+}
+
+
+p{
+	font-family: fantasy;
+	text-align: center;
+	color: yellow;
+	font-weight: normal;
+	font-size: 20px;
+}
+
+.img src {
+	position: center;
+	width: 100%;
+}
+
