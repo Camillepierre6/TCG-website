@@ -8,7 +8,7 @@ body {
 }
 .content1{
 	height:500px;
-	background-color: #648d53;
+	background-color: #7ba443;
 
 }
 .content2{
@@ -45,7 +45,7 @@ body {
 .logo{
   margin-left: auto;
   margin-right: auto;
-  width: 200px;
+  width: 250px;
   position: fixed;
   top:400px;
   
@@ -81,15 +81,15 @@ body {
 
 .side-bar ul .menu li  a 
 {
-  color:black;
+  color:#a18062;
   text-decoration:none;
   display:inline-table;
   width:100%;
-  padding-left:20px;
+  padding-left:21px;
   padding-right:20px;
   padding-top:10px;
   padding-bottom:10px;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .side-bar ul .menu li  a:hover
@@ -102,19 +102,19 @@ body {
 {
   padding-left:17px;
   border-left:3px solid #ECECEA;
-  color: #a95d68;
+  color: #f2a24d;
 }
 .side-bar ul .menu li   a#menu2:hover 
 {
   padding-left:17px;
   border-left:3px solid #ECECEA;
-  color: #a18062;
+  color: #f2a24d;
 }
 .side-bar ul .menu li   a#menu3:hover 
 {
   padding-left:17px;
   border-left:3px solid #ECECEA;  
-  color: #648d53;
+  color: #f2a24d;
 }
 .side-bar ul .menu li   a#menu4:hover 
 {
@@ -162,11 +162,11 @@ body {
   width:80px;
   opacity: 0.9;
 }
-.processtitre {
+.processtitle {
   color:white;
   text-align:center;
 }
-.processsoustitre {
+.processsubtitle {
   color:white;
 }
 .processblocks {
@@ -174,4 +174,18 @@ body {
 }
 .processtext {
   color:white;
+}
+.url {
+  font-weight: bold;
+  color: #a95d68;
+}
+.weeklymenutitle {
+  color:white;
+  text-align: center;
+}
+.weeklymenusubtitle {
+  #
+}
+.weeklymenutext {
+  #
 }
