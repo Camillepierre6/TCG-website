@@ -8,13 +8,16 @@ body {
 }
 .content1{
 	height:500px;
-	background-color: #7ba443;
+	background-color: #f9d1a7;
+  margin-top:40px;
 
 }
 .content2{
 	height:500px;
-	background-color: #f2a24d;
+	background-color: #bdd2a1;
 	opacity: 0.5;
+  margin-top:40px;
+
 }
 
 .slide{
