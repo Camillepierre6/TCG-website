@@ -92,7 +92,7 @@ body {
   padding-right:20px;
   padding-top:10px;
   padding-bottom:10px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .side-bar ul .menu li  a:hover
@@ -178,6 +178,7 @@ body {
 .processtext {
   color:white;
   text-align: center;
+  font-size: 15px;
 }
 .url {
   font-weight: bold;
@@ -185,7 +186,6 @@ body {
 }
 .weeklymenutitle {
   color:white;
-
 }
 .weeklymenusubtitle {
   #
@@ -200,11 +200,19 @@ margin-top: 80px;
 
 }
 .dot{
-    width: 200px;
-    position: absolute;
-    top: 180px;
-    left: 220px;
+width: 250%;
+    margin-top: 30px;
+    position: relative;
+
 }
 .text-slider{
   font-size: 20px;
+  background-color: white;
+  opacity:0.7;
+  color:black;
 }
+.col-dot{
+      position: relative;
+    right: 4%;
+}
+
